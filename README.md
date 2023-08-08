@@ -5,5 +5,5 @@
 To run the project in your machine, please:
 
 ```
-npm install react
+npm javaScriptFile.js
 ```
